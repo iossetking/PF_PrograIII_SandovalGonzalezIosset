@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+
+# Virtual environment (uv)
+.venv/
+
+# TensorFlow
+*.keras
+saved_model/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
